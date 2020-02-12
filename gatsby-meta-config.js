@@ -1,14 +1,14 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `sun f/w my waymaker as a Jesusist`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: `Sun`,
+  introduction: `meditation road for the bible`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
+    linkedin: `https://www.linkedin.com/in/sunyeob-kim/`, // Your Linkedin account
+    github: `sun-at-heaven`, // Your GitHub account
+    instagram: `https://www.instagram.com/sun_on_worship/`, // Your Instagram account
+    facebook: `Sartorialist.Kim`, // Your Facebook account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
@@ -20,7 +20,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'Thank you jbee',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
